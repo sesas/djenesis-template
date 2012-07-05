@@ -1,0 +1,5 @@
+Django==1.4
+
+# Timezone support
+pytz==2012c
+
